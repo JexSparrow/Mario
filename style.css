@@ -325,6 +325,7 @@ textarea {
         
         height: 350px;
         width: 80%;
+        
     
         padding: 8px;
         gap: 15px;
@@ -389,9 +390,126 @@ textarea {
         font-size: 10px;
     }
 
+}
+
+@media (min-height: 915px){
+
+    .header {
+
+        margin: 4%;
+        margin-bottom: 5%;
+        display: flex;
+        gap: 35px;
+        
+        justify-content: center;
+        align-items: center;
+        
+    }
+    
+    .header img{
+        width: 65px;  
+    }
+
+    .header a {
+        font-size: 24px;
+        text-align: center;
+    }
+
+    .main {
+
+        padding: 2%;
+        max-width: 100%;
+        gap: 1%;
+
+        min-height: 90%;
+    }
+
+    .conteudo-esquerda {
+        max-width: 95%;
+        gap: 12vh;
+        min-height: 80%;
+    }
+
+    .logo {
+
+       z-index: -1;
+
+        min-width: 40%;
+        max-height: 18%;
+
+        position: absolute;
+        left: 50%;
+        top: 13%;
+        transform: translateX(-50%);
+    }
 
 
+    
+    p {
+        font-size: 25px;
+    }
 
+    .whatsapp img{
+        width: 64px;
+        margin: 4px;
+
+        
+    }
+
+    .whatsapp img:hover {
+        width: 68px;
+    }
+
+    .button-entre-em-contato {
+
+        position: absolute;
+        left: 50%;
+        bottom: 4%;
+        transform: translateX(-50%);
+
+        
+        width: 268px;
+        height: 56px;
+        font-size: 24px;
+        letter-spacing: 0.8px;
+
+        
+        
+    }
+
+    .button-entre-em-contato:hover {
+
+        font-size: 26px;
+        width: 272px;
+    }
+
+    .formulario {
+        
+        height: 50%;
+        width: 36.5%;
+    
+        padding: 16px;
+        gap: 15px;
+         
+    }
+
+    .input-nome {
+        margin-top: 5%;
+    
+    }
+
+    textarea {
+    
+        height: 250px;
+        width: 95%;
+        margin: 0 auto;
+    }
+
+    video {
+        min-height: 101vh;
+    }
 
 }
+
+
 
