@@ -18,6 +18,7 @@ Confira: (https://mario-landing-page-jex.netlify.app/)
 
 ![Captura de tela 2025-04-30 135930](https://github.com/user-attachments/assets/4ddcf5e1-bd82-4a0b-8c6c-714bfcd26d38)
 ![Captura de tela 2025-04-30 135944](https://github.com/user-attachments/assets/fa185fd2-a786-4191-8efd-913c784f3ace)
+![Captura de tela 2025-04-30 140003](https://github.com/user-attachments/assets/89b0ea6e-c2f3-4009-bd64-e539909e7fe1)
 
 
 
