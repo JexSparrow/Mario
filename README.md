@@ -15,11 +15,9 @@ Confira: (https://mario-landing-page-jex.netlify.app/)
 
 
 <h2>Totalmente responsivo para dispositivos móveis!</h2>
-![Captura de tela 2025-04-30 135930](https://github.com/user-attachments/assets/618b4078-8060-4746-89c9-28dfec5c5152)
-![Captura de tela 2025-04-30 135944](https://github.com/user-attachments/assets/18f01e8a-00f7-45dd-b430-06da40b93db8)
-<br>
-![Captura de tela 2025-04-30 140003](https://github.com/user-attachments/assets/e0b24415-4c10-497e-9936-dc68d8ebd483)
 
+![Captura de tela 2025-04-30 135930](https://github.com/user-attachments/assets/4ddcf5e1-bd82-4a0b-8c6c-714bfcd26d38)
+![Captura de tela 2025-04-30 135944](https://github.com/user-attachments/assets/fa185fd2-a786-4191-8efd-913c784f3ace)
 
 
 
